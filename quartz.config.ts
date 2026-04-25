@@ -23,32 +23,35 @@ const config: QuartzConfig = {
       fontOrigin: "googleFonts",
       cdnCaching: true,
       typography: {
-        header: "Schibsted Grotesk",
-        body: "Source Sans Pro",
-        code: "IBM Plex Mono",
+        header: "Playfair Display",
+        body: "Inter",
+        code: "JetBrains Mono",
       },
       colors: {
+        // Matched to the Lovable CV site (iressa8655.github.io):
+        // background = warm lavender, primary = aubergine purple,
+        // accent = champagne tan, headings in plum.
         lightMode: {
-          light: "#faf8f8",
-          lightgray: "#e5e5e5",
-          gray: "#b8b8b8",
-          darkgray: "#4e4e4e",
-          dark: "#2b2b2b",
-          secondary: "#284b63",
-          tertiary: "#84a59d",
-          highlight: "rgba(143, 159, 169, 0.15)",
-          textHighlight: "#fff23688",
+          light: "#F0EDF1",          // page background, warm lavender
+          lightgray: "#E5E2E8",      // borders, muted surfaces
+          gray: "#A89BA3",           // muted text, captions
+          darkgray: "#5E4F58",       // body text
+          dark: "#2D2128",           // headings, strong text (deep plum)
+          secondary: "#6B3B7E",      // links, focus (aubergine purple from gradient start)
+          tertiary: "#C4A882",       // hover, highlights (champagne tan from gradient end)
+          highlight: "rgba(196, 168, 130, 0.15)",
+          textHighlight: "#C4A88266",
         },
         darkMode: {
-          light: "#161618",
-          lightgray: "#393639",
-          gray: "#646464",
-          darkgray: "#d4d4d4",
-          dark: "#ebebec",
-          secondary: "#7b97aa",
-          tertiary: "#84a59d",
-          highlight: "rgba(143, 159, 169, 0.15)",
-          textHighlight: "#b3aa0288",
+          light: "#1E161B",          // background, very dark plum
+          lightgray: "#2E2530",      // borders
+          gray: "#7A6E76",           // muted text
+          darkgray: "#D4C8CE",       // body text
+          dark: "#F4F1F6",           // headings, strong text
+          secondary: "#A877C6",      // links (lifted purple for dark)
+          tertiary: "#C4A882",       // accent stays champagne
+          highlight: "rgba(168, 119, 198, 0.15)",
+          textHighlight: "#A877C666",
         },
       },
     },
