@@ -23,7 +23,7 @@ const config: QuartzConfig = {
       fontOrigin: "googleFonts",
       cdnCaching: true,
       typography: {
-        header: "Corben",        // brand font from H&H logo (info.txt)
+        header: "Playfair Display",  // refined transitional serif, light + airy
         body: "Inter",
         code: "JetBrains Mono",
       },

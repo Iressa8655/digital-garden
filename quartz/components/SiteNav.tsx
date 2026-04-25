@@ -63,11 +63,11 @@ SiteNav.css = `
   color: var(--darkgray);
   text-decoration: none;
   text-transform: uppercase;
-  letter-spacing: 0.09em;
-  font-weight: 600;
-  font-size: 0.72rem;
+  letter-spacing: 0.12em;
+  font-weight: 500;
+  font-size: 0.7rem;
   transition: color 0.2s;
-  border-bottom: 2px solid transparent;
+  border-bottom: 1px solid transparent;
   padding-bottom: 0.15rem;
 }
 .site-nav a:hover {
