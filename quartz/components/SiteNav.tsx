@@ -2,7 +2,10 @@ import { QuartzComponent, QuartzComponentConstructor, QuartzComponentProps } fro
 import { joinSegments, pathToRoot } from "../util/path"
 import { classNames } from "../util/lang"
 
-const CV_URL = "https://iressa8655.github.io/"
+// Use the Lovable-hosted URL (different host) so Quartz's SPA router does NOT
+// intercept the click. If we point at iressa8655.github.io (same host as the
+// digital garden), SPA tries to fetch it as a Quartz page and the link breaks.
+const CV_URL = "https://iressas-refined-folio.lovable.app/"
 
 const SiteNav: QuartzComponent = ({ fileData, displayClass }: QuartzComponentProps) => {
   const baseDir = pathToRoot(fileData.slug!)
@@ -29,7 +32,9 @@ const SiteNav: QuartzComponent = ({ fileData, displayClass }: QuartzComponentPro
           <li class={isActive(s.href, s.label) ? "active" : ""}>
             <a
               href={s.href}
-              {...(s.external ? { rel: "noopener", target: "_self" } : {})}
+              {...(s.external
+                ? { rel: "noopener external", target: "_self", "data-no-popover": true }
+                : {})}
             >
               {s.label}
             </a>
