@@ -77,10 +77,7 @@ Not "don't use AI". Not "write everything from scratch like it's 1998". Just: if
 
 ---
 
-## TODO before publishing
-- [x] Tighten the trapezium story, name the actual function (`numpy.trapezoid` vs `numpy.trapz`, NumPy 2.0)
-- [x] Add a short code snippet (before/after) so it's not pure prose
-- [ ] Reproduce the actual error message and paste it verbatim
-- [ ] Decide on tone: confessional vs. essay
-- [ ] Cross link to the GitHub repo `code-in-place-2026`
-- [ ] Pick a closing line that's quotable
+## A small invitation
+If you'd like to see what we actually get up to in Code in Place each week, my homework, weekly notes, and the occasional Karel-induced confession all live, in public, at [github.com/Iressa8655/code-in-place-2026](https://github.com/Iressa8655/code-in-place-2026). It's a useful peek behind the curtain if you're considering applying for a future cohort, which I'd thoroughly recommend.
+
+I'll be back as a section leader for the next round, so if you do apply and end up in my class, do say hello.

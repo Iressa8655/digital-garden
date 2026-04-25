@@ -28,28 +28,28 @@ const config: QuartzConfig = {
         code: "JetBrains Mono",
       },
       colors: {
-        // Matched to the Lovable CV site (iressa8655.github.io):
-        // background = warm lavender, primary = aubergine purple,
-        // accent = champagne tan, headings in plum.
+        // Snapped to the H&H brand palette (info.txt from logo pack):
+        // bg #F2EFF0, icon-gradient deep purple #3D1755 to champagne #DAC1A5,
+        // text/font #31272A, slogan grey #453B3E.
         lightMode: {
-          light: "#F0EDF1",          // page background, warm lavender
-          lightgray: "#E5E2E8",      // borders, muted surfaces
-          gray: "#A89BA3",           // muted text, captions
-          darkgray: "#5E4F58",       // body text
-          dark: "#2D2128",           // headings, strong text (deep plum)
-          secondary: "#6B3B7E",      // links, focus (aubergine purple from gradient start)
-          tertiary: "#C4A882",       // hover, highlights (champagne tan from gradient end)
-          highlight: "rgba(196, 168, 130, 0.15)",
-          textHighlight: "#C4A88266",
+          light: "#F2EFF0",          // page background (brand bg)
+          lightgray: "#E3DEE0",      // borders, muted surfaces
+          gray: "#9A8E92",           // muted text, captions
+          darkgray: "#453B3E",       // body text (brand slogan colour)
+          dark: "#31272A",           // headings, strong text (brand font colour)
+          secondary: "#3D1755",      // links, focus (brand icon gradient start)
+          tertiary: "#DAC1A5",       // hover, highlights (brand icon gradient end)
+          highlight: "rgba(218, 193, 165, 0.15)",
+          textHighlight: "#DAC1A566",
         },
         darkMode: {
-          light: "#1E161B",          // background, very dark plum
-          lightgray: "#2E2530",      // borders
-          gray: "#7A6E76",           // muted text
-          darkgray: "#D4C8CE",       // body text
-          dark: "#F4F1F6",           // headings, strong text
-          secondary: "#A877C6",      // links (lifted purple for dark)
-          tertiary: "#C4A882",       // accent stays champagne
+          light: "#1A1216",          // background, near-black plum
+          lightgray: "#2A2126",      // borders
+          gray: "#776B70",           // muted text
+          darkgray: "#D6CCD0",       // body text
+          dark: "#F2EFF0",           // headings, strong text (brand bg inverted)
+          secondary: "#A877C6",      // lifted purple for legibility on dark
+          tertiary: "#DAC1A5",       // accent stays champagne
           highlight: "rgba(168, 119, 198, 0.15)",
           textHighlight: "#A877C666",
         },
