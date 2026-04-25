@@ -2,13 +2,18 @@
 title: Iressa's Digital Garden
 ---
 
-![[attachments/hh-logo-full.png|400]]
+<div style="display:flex;flex-wrap:wrap;align-items:center;gap:2.5rem;margin:2rem 0 3rem;">
+  <div style="flex:1 1 320px;min-width:260px;">
+    <h1 style="margin-top:0;">Hello, I'm Iressa.</h1>
+    <p>Doctor by training, currently doing a DPhil at Oxford in musculoskeletal biomechanics, with a quietly persistent interest in healthcare ventures and the slow, useful end of AI.</p>
+    <p>This is where I write things down properly. Half-formed essays, weekly notes, things I am still working out. Curated, but only loosely.</p>
+  </div>
+  <div style="flex:0 0 240px;">
+    <img src="attachments/headshot.jpg" alt="Iressa Cheng" style="width:100%;border-radius:0.75rem;" />
+  </div>
+</div>
 
-# Welcome
-
-This is where I write things down properly. Half-formed essays, weekly notes, things I am thinking through, things I keep getting wrong and want to remember. Curated, but only loosely.
-
-Four corners:
+## Four corners
 
 - [[Medicine/index|Medicine]] — clinical practice, exam preparation, the bits I keep coming back to
 - [[Technology/index|Technology]] — code, AI, biomechanics, what I'm currently learning (and how I'm being humbled by it)
