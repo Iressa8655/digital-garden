@@ -43,16 +43,16 @@ const SiteNav: QuartzComponent = ({ fileData, displayClass }: QuartzComponentPro
 SiteNav.css = `
 .site-nav {
   width: 100%;
-  margin: 0 0 1.25rem 0;
+  margin: 0 0 0.75rem 0;
   border-bottom: 1px solid var(--lightgray);
 }
 .site-nav ul {
   list-style: none;
   margin: 0;
-  padding: 0.6rem 0;
+  padding: 0.4rem 0;
   display: flex;
   flex-wrap: wrap;
-  gap: 1.5rem;
+  gap: 1.25rem;
   font-family: var(--bodyFont);
   align-items: center;
 }
@@ -63,12 +63,12 @@ SiteNav.css = `
   color: var(--darkgray);
   text-decoration: none;
   text-transform: uppercase;
-  letter-spacing: 0.1em;
+  letter-spacing: 0.09em;
   font-weight: 600;
-  font-size: 0.78rem;
+  font-size: 0.72rem;
   transition: color 0.2s;
   border-bottom: 2px solid transparent;
-  padding-bottom: 0.2rem;
+  padding-bottom: 0.15rem;
 }
 .site-nav a:hover {
   color: var(--secondary);
@@ -78,12 +78,16 @@ SiteNav.css = `
   border-bottom-color: var(--tertiary);
 }
 @media (max-width: 600px) {
+  .site-nav {
+    margin: 0 0 0.5rem 0;
+  }
   .site-nav ul {
-    gap: 0.85rem;
+    gap: 0.75rem;
+    padding: 0.3rem 0;
   }
   .site-nav a {
-    font-size: 0.7rem;
-    letter-spacing: 0.06em;
+    font-size: 0.65rem;
+    letter-spacing: 0.05em;
   }
 }
 `
