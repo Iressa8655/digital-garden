@@ -13,11 +13,12 @@ title: Iressa's Digital Garden
   </div>
 </div>
 
-## Four corners
+## Five corners
 
 - [[Medicine/index|Medicine]] — clinical practice, exam preparation, the bits I keep coming back to
-- [[Technology/index|Technology]] — code, AI, biomechanics, what I'm currently learning (and how I'm being humbled by it)
-- [[Business/index|Business]] — healthcare ventures and the slow business of building something useful
+- [[Research/index|Research]] — the DPhil, fairness-aware models on health data, and the methods underneath
+- [[AI/index|AI]] — code, machine learning, what I'm currently learning (and how I'm being humbled by it)
+- [[Ventures/index|Ventures]] — scouting early-stage AI companies, and how that judgement actually gets made
 - [[Personal Development/index|Personal Development]] — learning, habits, the longer view
 
 If you came here from my [CV site](https://iressa8655.github.io/), welcome back. If you came here some other way, that one is over there too.

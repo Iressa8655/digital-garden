@@ -12,8 +12,9 @@ const SiteNav: QuartzComponent = ({ fileData, displayClass }: QuartzComponentPro
   const sections = [
     { label: "CV", href: CV_URL, external: true },
     { label: "Medicine", href: joinSegments(baseDir, "Medicine") + "/" },
-    { label: "Technology", href: joinSegments(baseDir, "Technology") + "/" },
-    { label: "Business", href: joinSegments(baseDir, "Business") + "/" },
+    { label: "Research", href: joinSegments(baseDir, "Research") + "/" },
+    { label: "AI", href: joinSegments(baseDir, "AI") + "/" },
+    { label: "Ventures", href: joinSegments(baseDir, "Ventures") + "/" },
     { label: "Personal Development", href: joinSegments(baseDir, "Personal-Development") + "/" },
   ]
 
