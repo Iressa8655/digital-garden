@@ -67,7 +67,7 @@ But the fund promised its LPs several times the entire fund. A $6 million return
 
 Working backwards, each investment has to carry a **credible path to returning the entire fund on its own**. Not a likely path. A credible one.
 
-Push the dilution maths through and the exit size required to do that is enormous, typically in the billions rather than the hundreds of millions. There are not many companies in any given year that could plausibly get there.
+Push the dilution maths through and the exit size required to do that is enormous, typically in the billions, not the hundreds of millions. There are not many companies in any given year that could plausibly get there.
 
 That is why early-stage investors are so unreasonably picky about market size, and why "this is a real business with real customers" is not, by itself, an argument that wins. If there is no visible route to a very large outcome, the arithmetic simply does not close, however much everyone likes the team.
 
@@ -115,7 +115,7 @@ The practical proxy is whether there is a plausible route to $100 million in ann
 
 That is a question about the market in three parts. **Size**, because almost no company takes more than a modest share of its market, so the market has to be very large, or credibly about to become very large. **Shape**, meaning who the players are and whether this is a winner-takes-most structure or one the incumbents quietly absorb. **State**, meaning whether the opportunity is still open or the moment has already been captured.
 
-Then do the arithmetic from the bottom up rather than the top down. If they charge a certain amount, how many customers does $100 million require, and does that number of customers exist? Is that spending already in someone's budget, or does it have to be created? And because it is *recurring* revenue, is there a reason the margin does not erode the moment a competitor appears?
+Then do the arithmetic from the bottom up, not the top down. If they charge a certain amount, how many customers does $100 million require, and does that number of customers exist? Is that spending already in someone's budget, or does it have to be created? And because it is *recurring* revenue, is there a reason the margin does not erode the moment a competitor appears?
 
 > [!note] Focus on the upside, not the risk
 > This is the counter-intuitive bit. Early-stage companies are all fragile, and they will break in ways nobody predicted. Cataloguing the risks is easy and not very informative. The harder and more useful exercise is, **assuming they execute well, how big can this actually get?** That number is what decides whether the investment can work at all.
@@ -161,7 +161,7 @@ None of this makes venture a good way to finance most companies. It makes it a v
 
 ## 9. If you are building something
 
-I scout for **[ellipsis Ventures](https://ellipsis-venture.com/)**, an AI-focused fund investing at first cheque and pre-seed across Europe, the US and Israel. We back teams where AI is the core of the product rather than a feature bolted onto it, and where there is genuine technical or scientific depth behind it.
+I scout for **[ellipsis Ventures](https://ellipsis-venture.com/)**, an AI-focused fund investing at first cheque and pre-seed across Europe, the US and Israel. We back teams where AI is the core of the product, not a feature bolted onto it, and where there is genuine technical or scientific depth behind it.
 
 **Get in touch if any of this sounds like you.**
 
@@ -178,4 +178,4 @@ A referral is not an investment decision, and I cannot promise an outcome. What 
 
 ---
 
-*Related* → [[Ventures/AI hype versus real ROI|AI hype versus real ROI]], on why the same commoditisation problem shows up inside large companies buying AI rather than building it.
+*Related* → [[Ventures/AI hype versus real ROI|AI hype versus real ROI]], on why the same commoditisation problem shows up inside large companies buying AI instead of building it.

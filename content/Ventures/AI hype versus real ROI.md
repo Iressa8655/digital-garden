@@ -14,7 +14,7 @@ tags:
 
 Notes and reflections from a masterclass by **Seena Rejal**, Chief Commercial Officer at NetMind.AI, given at Oxbridge AI X in August 2026. The framing and examples below are his. The connections I draw to how early-stage companies get evaluated are mine.
 
-It was a commercial talk rather than a technical one, and it circled one question. Why did almost every corporate generative-AI project fail to pay for itself, and what would one that paid for itself actually look like?
+It was a commercial talk, not a technical one, and it circled one question. Why did almost every corporate generative-AI project fail to pay for itself, and what would one that paid for itself actually look like?
 
 ![[attachments/roi-argument-chain.svg]]
 
@@ -39,7 +39,7 @@ Open-weight models now sit within a fraction of a point of the frontier on stand
 The consequence for startups is blunt. A company whose entire product is a thin layer over somebody else's model API has nothing a larger player cannot replicate, and the larger players have been steadily absorbing exactly those features into their own products. A very large share of that cohort is expected not to survive.
 
 > [!note] Why this matters on the investing side
-> This is the same commoditisation risk I wrote about in [[Ventures/How venture capital actually works|how venture capital actually works]], seen from the buyer's side rather than the investor's. The question "what happens to this company when the next frontier model ships" is the single highest-value question you can ask about an AI business, whether you are buying its product or its equity.
+> This is the same commoditisation risk I wrote about in [[Ventures/How venture capital actually works|how venture capital actually works]], seen from the buyer's side instead of the investor's. The question "what happens to this company when the next frontier model ships" is the single highest-value question you can ask about an AI business, whether you are buying its product or its equity.
 
 ## 3. The answer, build a moat
 
@@ -47,8 +47,8 @@ His framing here is deliberately unexciting. None of this is new to AI. These ar
 
 He gives five moats.
 
-1. **Data flywheel.** Not "we have data". A loop. Customers use the product, their use generates data, the data makes the product better, which attracts more customers. A competitor cannot buy the loop because they would need your customers first. His example is a legal AI company valued in the billions on the strength of proprietary law-firm data rather than any modelling advantage.
-2. **Workflow integration.** Being embedded in how a team already works, rather than being a tool someone opens occasionally. Several products dismissed early on as thin wrappers turned out to have this, and are now worth a great deal.
+1. **Data flywheel.** Not "we have data". A loop. Customers use the product, their use generates data, the data makes the product better, which attracts more customers. A competitor cannot buy the loop because they would need your customers first. His example is a legal AI company valued in the billions on the strength of proprietary law-firm data, not any modelling advantage.
+2. **Workflow integration.** Being embedded in how a team already works, instead of being a tool someone opens occasionally. Several products dismissed early on as thin wrappers turned out to have this, and are now worth a great deal.
 3. **Owned distribution.** Reach into a market that the model providers do not have, which can be built astonishingly fast when it works.
 4. **Brand and trust.** Auditable compliance, the SOC 2 and HIPAA and GDPR work, which a new entrant cannot ship overnight. As he put it, "Compliance is boring. Compliance is also a moat."
 5. **Network effects.** Value compounding as more users or institutions join the same system. The social platform playbook, unchanged.
@@ -71,7 +71,7 @@ The practical half of the talk was a five-step approach for anyone actually deci
 
 **Start in the back office.** Front-office pilots demo beautifully. Claims processing and fraud detection move the profit and loss statement.
 
-**Cap the cost, and budget for governance.** Two instructions, and the second is the one people miss. Set a hard spending ceiling before go-live so you cannot become dependent on a platform you can no longer leave. Then accept that somebody has to monitor and maintain the system, which is a real and recurring line item rather than an afterthought.
+**Cap the cost, and budget for governance.** Two instructions, and the second is the one people miss. Set a hard spending ceiling before go-live so you cannot become dependent on a platform you can no longer leave. Then accept that somebody has to monitor and maintain the system, which is a real and recurring line item, not an afterthought.
 
 **Default to open source.** His stated position is to open with open weights and move to a closed model only for a very strong specific reason. When the gap is a fraction of a point, paying a premium is a choice that needs justifying.
 
