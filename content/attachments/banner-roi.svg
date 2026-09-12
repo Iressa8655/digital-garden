@@ -1,0 +1,64 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 280" width="1200" height="280" font-family="Inter, Segoe UI, Helvetica, Arial, sans-serif">
+  <defs>
+    <linearGradient id="ground2" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#F7F2EC"/>
+      <stop offset="60%" stop-color="#F3EFF6"/>
+      <stop offset="100%" stop-color="#FAF9FB"/>
+    </linearGradient>
+    <linearGradient id="hype" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#C4A882"/>
+      <stop offset="60%" stop-color="#B7AEC0"/>
+      <stop offset="100%" stop-color="#6B3B7E"/>
+    </linearGradient>
+    <linearGradient id="moat" x1="0" y1="1" x2="0" y2="0">
+      <stop offset="0%" stop-color="#6B3B7E"/>
+      <stop offset="100%" stop-color="#8E5CA0"/>
+    </linearGradient>
+    <radialGradient id="glow2" cx="0.3" cy="0.2" r="0.55">
+      <stop offset="0%" stop-color="#C4A882" stop-opacity="0.2"/>
+      <stop offset="100%" stop-color="#C4A882" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+
+  <rect x="0" y="0" width="1200" height="280" rx="16" fill="url(#ground2)"/>
+  <rect x="0" y="0" width="1200" height="280" rx="16" fill="url(#glow2)"/>
+
+  <g stroke="#6B3B7E" stroke-opacity="0.05" stroke-width="1">
+    <line x1="0" y1="80" x2="1200" y2="80"/>
+    <line x1="0" y1="150" x2="1200" y2="150"/>
+    <line x1="0" y1="220" x2="1200" y2="220"/>
+  </g>
+
+  <!-- the hype curve: peak, trough, slow climb -->
+  <path d="M60 212 C 110 212, 140 52, 196 52 C 250 52, 268 196, 322 208 C 370 218, 402 200, 448 176 C 500 148, 548 132, 610 126"
+        fill="none" stroke="url(#hype)" stroke-width="4.5" stroke-linecap="round"/>
+
+  <!-- peak marker -->
+  <circle cx="196" cy="52" r="8" fill="#C4A882"/>
+  <text x="196" y="36" font-size="12.5" font-weight="600" fill="#A88B5E" text-anchor="middle">the pilot</text>
+
+  <!-- trough marker -->
+  <circle cx="318" cy="207" r="7" fill="#B7AEC0"/>
+  <text x="318" y="232" font-size="12.5" fill="#8A8290" text-anchor="middle">the bill</text>
+
+  <!-- recovery -->
+  <circle cx="610" cy="126" r="8" fill="#6B3B7E"/>
+  <text x="610" y="108" font-size="12.5" font-weight="600" fill="#6B3B7E" text-anchor="middle">the moat</text>
+
+  <!-- moat blocks, solid and stacked, the thing that lasts -->
+  <g>
+    <rect x="646" y="150" width="24" height="62" rx="4" fill="url(#moat)" opacity="0.35"/>
+    <rect x="678" y="138" width="24" height="74" rx="4" fill="url(#moat)" opacity="0.55"/>
+    <rect x="710" y="126" width="24" height="86" rx="4" fill="url(#moat)" opacity="0.78"/>
+    <rect x="742" y="112" width="24" height="100" rx="4" fill="url(#moat)"/>
+  </g>
+
+  <line x1="48" y1="214" x2="790" y2="214" stroke="#6B3B7E" stroke-opacity="0.18" stroke-width="1.5"/>
+
+  <g>
+    <text x="838" y="118" font-size="32" font-weight="700" fill="#3D3846" font-family="Georgia, 'Times New Roman', serif">Real ROI</text>
+    <line x1="839" y1="134" x2="898" y2="134" stroke="#C4A882" stroke-width="3" stroke-linecap="round"/>
+    <text x="838" y="166" font-size="14.5" fill="#5F5866">Measure the cost before the value</text>
+    <text x="838" y="190" font-size="13" fill="#8A8290">and ask what moat it builds</text>
+  </g>
+</svg>

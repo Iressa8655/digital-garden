@@ -7,6 +7,8 @@ tags:
   - scouting
 ---
 
+![[attachments/banner-venture.svg]]
+
 # How venture capital actually works
 
 I spend part of my week reading pitch decks as a scout for an early-stage AI fund. The first thing that surprised me is how little of the judgement is about whether a company is *good*. Plenty of good companies are a bad fit for venture capital, and understanding why requires understanding the arithmetic the fund itself is trapped inside.
@@ -117,6 +119,21 @@ Then do the arithmetic from the bottom up rather than the top down. If they char
 
 > [!note] Focus on the upside, not the risk
 > This is the counter-intuitive bit. Early-stage companies are all fragile, and they will break in ways nobody predicted. Cataloguing the risks is easy and not very informative. The harder and more useful exercise is, **assuming they execute well, how big can this actually get?** That number is what decides whether the investment can work at all.
+
+#### The ambition problem, which is really a market problem
+
+There is a specific version of this that comes up often enough to be worth naming on its own, because it is the one that founders are most surprised by.
+
+A team can be genuinely excellent, out of a serious research group, with real technical depth, and still fail this question entirely, because of how they have drawn the boundary around their market. The most common way I see it happen in Europe is a strong team that has quietly decided to win their own country first.
+
+Switzerland is the cleanest illustration. It is a wealthy market, it pays well for quality, and it is entirely reasonable to want to start where your customers are a train ride away. It is also **small**. Winning it outright does not get you close to the scale the arithmetic in this post requires, and worse, succeeding there teaches you very little about whether you can win anywhere else, because the buying behaviour is not representative. The same argument applies to most single European countries. If the plan is Europe, then the plan has to run through the large markets, the UK, Germany, France, and eventually the US.
+
+The reason this matters so much is that a narrow market is usually not a strategy. It is a comfort. And you can normally tell the difference by asking why. A founder who says "we are starting here because these three customers are the hardest and most demanding buyers in our category, and if we win them the rest follows" has a reason. A founder who says "we are starting here because it is where we live and we know people" has a preference, and the preference tends to persist long after it has stopped serving them.
+
+> [!tip] What I would say to a founder
+> Be more ambitious than feels comfortable when you describe the market, and be specific about it. Not "we will expand internationally later", which everyone writes. Name the large market you are going after, say what makes you think you can take a share of it, and say what would have to be true for that to work. An investor is not testing whether your current traction is big. They are testing whether the ceiling is.
+
+This is also why "strong team" alone does not carry a company through. The team gets you taken seriously. The size of the ambition, and whether the market can actually support it, decides whether the arithmetic closes.
 
 ### 7.3. Is the moat real?
 

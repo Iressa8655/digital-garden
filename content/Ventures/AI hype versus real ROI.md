@@ -8,6 +8,8 @@ tags:
   - open-source
 ---
 
+![[attachments/banner-roi.svg]]
+
 # AI hype versus real ROI
 
 Notes and reflections from a masterclass by **Seena Rejal**, Chief Commercial Officer at NetMind.AI, given at Oxbridge AI X in August 2026. The framing and examples below are his. The connections I draw to how early-stage companies get evaluated are mine.
