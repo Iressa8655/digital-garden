@@ -104,8 +104,8 @@ The useful move is to ask what this company is actually hard at. A company whose
 
 And the bar is genuinely high. There is a meaningful gap between good, great, and outlier, and only the last one is the thing being looked for.
 
-> [!warning] Verify, do not quote
-> The single most common failure when writing a company up is repeating what the founder says about themselves. A pitch is a sales document. If someone is described as a leading researcher, their publication record is public. If someone is described as a formidable engineer, their code usually is too. Check it, then write down what you checked and what you found.
+> [!warning] A claim is not evidence
+> The easiest mistake when writing a company up is repeating what the founders say about themselves. A pitch is a sales document and it is doing its job. But if someone is described as a leading researcher, their publication record is public. If someone is described as a formidable engineer, their code usually is too. So I go and look, and then I write down what I checked and what I found. That is the part that makes a write-up worth reading.
 
 A related trap is the brilliant technical founder who cannot build a company. Someone has to hire, sell, raise, partner and pitch. If the technical founder is not that person, there needs to be someone beside them who is.
 
