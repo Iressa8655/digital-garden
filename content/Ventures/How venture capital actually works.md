@@ -142,4 +142,23 @@ None of this makes venture a good way to finance most companies. It makes it a v
 
 ---
 
+## 9. If you are building something
+
+I scout for **[ellipsis Ventures](https://ellipsis-venture.com/)**, an AI-focused fund investing at first cheque and pre-seed across Europe, the US and Israel. We back teams where AI is the core of the product rather than a feature bolted onto it, and where there is genuine technical or scientific depth behind it.
+
+**Get in touch if any of this sounds like you.**
+
+1. You are building an AI company at pre-seed or first-cheque stage, anywhere in Europe, the US or Israel.
+2. Your edge is real expertise, whether technical, scientific or industrial, and not only access to a model API.
+3. You are not raising yet but would rather be known before you are. This is genuinely the better time to talk.
+
+I would also just like to hear about the company. A short note about what you are building and why you are the person building it is far more useful to me than a polished deck.
+
+📧 **[i-han@ellipsis-scouts.com](mailto:i-han@ellipsis-scouts.com)**
+🔗 **[ellipsis-venture.com](https://ellipsis-venture.com/)**
+
+A referral is not an investment decision, and I cannot promise an outcome. What I can promise is that it gets read properly by someone who has actually done the arithmetic above.
+
+---
+
 *Related* → [[Ventures/AI hype versus real ROI|AI hype versus real ROI]], on why the same commoditisation problem shows up inside large companies buying AI rather than building it.
