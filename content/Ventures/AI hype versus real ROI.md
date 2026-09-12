@@ -8,7 +8,7 @@ tags:
   - open-source
 ---
 
-![[attachments/banner-roi.svg]]
+![[attachments/banner-roi-v2.svg]]
 
 # AI hype versus real ROI
 

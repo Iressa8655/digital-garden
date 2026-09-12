@@ -7,7 +7,7 @@ tags:
   - scouting
 ---
 
-![[attachments/banner-venture.svg]]
+![[attachments/banner-venture-v2.svg]]
 
 # How venture capital actually works
 
