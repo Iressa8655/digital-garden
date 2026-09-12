@@ -1,0 +1,60 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 420" width="760" height="420" font-family="Inter, Segoe UI, Helvetica, Arial, sans-serif">
+  <rect x="0" y="0" width="760" height="420" rx="14" fill="#FAF9FB" stroke="#E4E0E8"/>
+
+  <text x="32" y="42" font-size="17" font-weight="700" fill="#3D3846">Why a $250M exit can still be a miss</text>
+  <text x="32" y="63" font-size="12.5" fill="#8A8290">Illustrative. A $1M cheque, a 5% starting stake, ordinary dilution.</text>
+
+  <!-- PANEL 1 : dilution -->
+  <text x="32" y="100" font-size="12" font-weight="700" fill="#6B3B7E">① OWNERSHIP SHRINKS AT EVERY ROUND</text>
+
+  <!-- circles -->
+  <g>
+    <circle cx="92" cy="163" r="40" fill="#6B3B7E"/>
+    <text x="92" y="169" font-size="17" font-weight="700" fill="#FFFFFF" text-anchor="middle">5%</text>
+    <text x="92" y="222" font-size="11.5" font-weight="600" fill="#3D3846" text-anchor="middle">First cheque</text>
+
+    <path d="M142 163 L186 163" stroke="#8A8290" stroke-width="1.4"/>
+    <path d="M181 158 L188 163 L181 168 Z" fill="#8A8290"/>
+    <text x="164" y="152" font-size="10.5" fill="#8A8290" text-anchor="middle">option pool</text>
+
+    <circle cx="238" cy="163" r="34" fill="#6B3B7E" opacity="0.72"/>
+    <text x="238" y="169" font-size="15" font-weight="700" fill="#FFFFFF" text-anchor="middle">4%</text>
+    <text x="238" y="222" font-size="11.5" fill="#5F5866" text-anchor="middle">after pool</text>
+
+    <path d="M282 163 L326 163" stroke="#8A8290" stroke-width="1.4"/>
+    <path d="M321 158 L328 163 L321 168 Z" fill="#8A8290"/>
+    <text x="304" y="152" font-size="10.5" fill="#8A8290" text-anchor="middle">seed</text>
+
+    <circle cx="374" cy="163" r="28" fill="#6B3B7E" opacity="0.55"/>
+    <text x="374" y="169" font-size="14" font-weight="700" fill="#FFFFFF" text-anchor="middle">3.2%</text>
+    <text x="374" y="222" font-size="11.5" fill="#5F5866" text-anchor="middle">after seed</text>
+
+    <path d="M414 163 L458 163" stroke="#8A8290" stroke-width="1.4"/>
+    <path d="M453 158 L460 163 L453 168 Z" fill="#8A8290"/>
+    <text x="436" y="152" font-size="10.5" fill="#8A8290" text-anchor="middle">Series A</text>
+
+    <circle cx="500" cy="163" r="22" fill="#6B3B7E" opacity="0.4"/>
+    <text x="500" y="168" font-size="12.5" font-weight="700" fill="#FFFFFF" text-anchor="middle">2.4%</text>
+    <text x="500" y="222" font-size="11.5" font-weight="600" fill="#3D3846" text-anchor="middle">at exit</text>
+  </g>
+
+  <rect x="556" y="130" width="172" height="66" rx="8" fill="#FFFFFF" stroke="#E4E0E8"/>
+  <text x="642" y="155" font-size="12" fill="#5F5866" text-anchor="middle">2.4% × $250M =</text>
+  <text x="642" y="180" font-size="19" font-weight="700" fill="#6B3B7E" text-anchor="middle">$6M</text>
+
+  <line x1="32" y1="248" x2="728" y2="248" stroke="#E4E0E8"/>
+
+  <!-- PANEL 2 : against the target -->
+  <text x="32" y="278" font-size="12" font-weight="700" fill="#C4A882">② NOW SET THAT AGAINST WHAT THE FUND OWES</text>
+
+  <text x="32" y="312" font-size="12" fill="#5F5866">What the fund must return</text>
+  <rect x="230" y="298" width="440" height="22" rx="5" fill="#C4A882"/>
+  <text x="682" y="315" font-size="12.5" font-weight="700" fill="#3D3846">$200M</text>
+
+  <text x="32" y="350" font-size="12" fill="#5F5866">What this exit delivered</text>
+  <rect x="230" y="336" width="13" height="22" rx="4" fill="#6B3B7E"/>
+  <text x="255" y="353" font-size="12.5" font-weight="700" fill="#6B3B7E">$6M</text>
+
+  <rect x="32" y="376" width="696" height="32" rx="7" fill="#6B3B7E" opacity="0.09"/>
+  <text x="380" y="397" font-size="13" fill="#3D3846" text-anchor="middle">A <tspan font-weight="700">6× return</tspan> on the cheque. And roughly <tspan font-weight="700">3%</tspan> of what the fund promised.</text>
+</svg>

@@ -36,6 +36,8 @@ Two things come out before a single pound reaches a founder.
 
 What is left, the capital that actually goes into new companies, is substantially smaller than the headline fund size. Every one of those cheques now has to work harder than the headline number suggests.
 
+![[attachments/vc-fund-waterfall.svg]]
+
 ## 3. Dilution is relentless
 
 Say a fund writes an early cheque and ends up owning five per cent of a company. That five per cent does not stay five per cent.
@@ -56,6 +58,8 @@ But the fund promised its LPs several times the entire fund. A $6 million return
 
 > [!tip] The uncomfortable conclusion
 > A great outcome for the founders can be a **missed shot** for the fund. This is not cynicism, it is structural, and it explains most of the refusals that early-stage investors give to obviously competent teams.
+
+![[attachments/vc-dilution-and-exit.svg]]
 
 ## 5. So the bar is, could this one company return the whole fund?
 
@@ -80,11 +84,15 @@ And within the funds that do succeed, the wins are not spread evenly. Top funds 
 > [!abstract] The whole model in one line
 > Venture is not a business of avoiding losses. It is a business of **being in the one or two companies that make everything else irrelevant**.
 
+![[attachments/vc-power-law.svg]]
+
 ---
 
 ## 7. What I actually look for
 
 Given all of the above, a scout's job is narrow, find the small number of companies with a plausible route to being that outlier. Three questions do most of the work.
+
+![[attachments/vc-three-questions.svg]]
 
 ### 7.1. Is this an outlier team?
 

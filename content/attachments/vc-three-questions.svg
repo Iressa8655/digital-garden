@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 340" width="760" height="340" font-family="Inter, Segoe UI, Helvetica, Arial, sans-serif">
+  <rect x="0" y="0" width="760" height="340" rx="14" fill="#FAF9FB" stroke="#E4E0E8"/>
+
+  <text x="32" y="42" font-size="17" font-weight="700" fill="#3D3846">The three questions a deck has to survive</text>
+  <text x="32" y="63" font-size="12.5" fill="#8A8290">All three, not two. A company that fails any one of them does not clear the arithmetic.</text>
+
+  <!-- card 1 -->
+  <rect x="32" y="86" width="216" height="176" rx="10" fill="#FFFFFF" stroke="#6B3B7E" stroke-width="1.4"/>
+  <circle cx="60" cy="114" r="14" fill="#6B3B7E"/>
+  <text x="60" y="119" font-size="13" font-weight="700" fill="#FFFFFF" text-anchor="middle">1</text>
+  <text x="84" y="119" font-size="13.5" font-weight="700" fill="#3D3846">Outlier team</text>
+  <text x="52" y="148" font-size="12" fill="#5F5866">Exceptional at the thing</text>
+  <text x="52" y="166" font-size="12" fill="#5F5866">this company is actually</text>
+  <text x="52" y="184" font-size="12" fill="#5F5866">hard at.</text>
+  <text x="52" y="212" font-size="11.5" font-weight="600" fill="#6B3B7E">Test</text>
+  <text x="52" y="230" font-size="11.5" fill="#8A8290">Verify it. Do not repeat</text>
+  <text x="52" y="246" font-size="11.5" fill="#8A8290">what the pitch says.</text>
+
+  <!-- card 2 -->
+  <rect x="272" y="86" width="216" height="176" rx="10" fill="#FFFFFF" stroke="#C4A882" stroke-width="1.4"/>
+  <circle cx="300" cy="114" r="14" fill="#C4A882"/>
+  <text x="300" y="119" font-size="13" font-weight="700" fill="#FFFFFF" text-anchor="middle">2</text>
+  <text x="324" y="119" font-size="13.5" font-weight="700" fill="#3D3846">Upside</text>
+  <text x="292" y="148" font-size="12" fill="#5F5866">A credible bottom-up</text>
+  <text x="292" y="166" font-size="12" fill="#5F5866">path to $100M ARR.</text>
+  <text x="292" y="184" font-size="12" fill="#5F5866">Size, shape, state.</text>
+  <text x="292" y="212" font-size="11.5" font-weight="600" fill="#A88B5E">Test</text>
+  <text x="292" y="230" font-size="11.5" fill="#8A8290">How many customers</text>
+  <text x="292" y="246" font-size="11.5" fill="#8A8290">does that require?</text>
+
+  <!-- card 3 -->
+  <rect x="512" y="86" width="216" height="176" rx="10" fill="#FFFFFF" stroke="#6B3B7E" stroke-width="1.4"/>
+  <circle cx="540" cy="114" r="14" fill="#6B3B7E"/>
+  <text x="540" y="119" font-size="13" font-weight="700" fill="#FFFFFF" text-anchor="middle">3</text>
+  <text x="564" y="119" font-size="13.5" font-weight="700" fill="#3D3846">The moat</text>
+  <text x="532" y="148" font-size="12" fill="#5F5866">Something that survives</text>
+  <text x="532" y="166" font-size="12" fill="#5F5866">the next few model</text>
+  <text x="532" y="184" font-size="12" fill="#5F5866">generations.</text>
+  <text x="532" y="212" font-size="11.5" font-weight="600" fill="#6B3B7E">Test</text>
+  <text x="532" y="230" font-size="11.5" fill="#8A8290">Does this still exist in</text>
+  <text x="532" y="246" font-size="11.5" fill="#8A8290">three to five years?</text>
+
+  <rect x="32" y="284" width="696" height="34" rx="8" fill="#6B3B7E" opacity="0.09"/>
+  <text x="380" y="306" font-size="13" fill="#3D3846" text-anchor="middle">All three have to hold at once, because only then is a fund-returning outcome even <tspan font-weight="700">possible</tspan></text>
+</svg>

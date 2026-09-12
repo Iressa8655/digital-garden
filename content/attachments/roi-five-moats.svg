@@ -1,0 +1,62 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 400" width="760" height="400" font-family="Inter, Segoe UI, Helvetica, Arial, sans-serif">
+  <rect x="0" y="0" width="760" height="400" rx="14" fill="#FAF9FB" stroke="#E4E0E8"/>
+
+  <text x="32" y="42" font-size="17" font-weight="700" fill="#3D3846">Five moats, none of them new to business</text>
+  <text x="32" y="63" font-size="12.5" fill="#8A8290">One real moat makes a business. The point is to name which one you have.</text>
+
+  <!-- moat 1, data flywheel, drawn as a loop -->
+  <rect x="32" y="86" width="340" height="164" rx="10" fill="#FFFFFF" stroke="#6B3B7E" stroke-width="1.5"/>
+  <text x="52" y="112" font-size="12" font-weight="700" fill="#6B3B7E">1 · DATA FLYWHEEL</text>
+  <text x="52" y="132" font-size="11.5" fill="#5F5866">Not "we have data". A loop a rival cannot buy.</text>
+
+  <g>
+    <rect x="60" y="148" width="88" height="30" rx="6" fill="#6B3B7E" opacity="0.14"/>
+    <text x="104" y="167" font-size="11" fill="#3D3846" text-anchor="middle">customers use</text>
+
+    <path d="M152 163 L186 163" stroke="#6B3B7E" stroke-width="1.3"/>
+    <path d="M181 158 L188 163 L181 168 Z" fill="#6B3B7E"/>
+
+    <rect x="192" y="148" width="88" height="30" rx="6" fill="#6B3B7E" opacity="0.14"/>
+    <text x="236" y="167" font-size="11" fill="#3D3846" text-anchor="middle">data builds up</text>
+
+    <path d="M280 163 L306 163 L306 198" stroke="#6B3B7E" stroke-width="1.3" fill="none"/>
+    <path d="M301 193 L306 200 L311 193 Z" fill="#6B3B7E"/>
+
+    <rect x="192" y="200" width="114" height="30" rx="6" fill="#6B3B7E" opacity="0.14"/>
+    <text x="249" y="219" font-size="11" fill="#3D3846" text-anchor="middle">product gets better</text>
+
+    <path d="M192 215 L154 215 L154 180" stroke="#6B3B7E" stroke-width="1.3" fill="none"/>
+    <path d="M149 185 L154 178 L159 185 Z" fill="#6B3B7E"/>
+    <text x="104" y="219" font-size="11" fill="#5F5866" text-anchor="middle">more customers</text>
+  </g>
+
+  <!-- moats 2-5 -->
+  <rect x="388" y="86" width="340" height="36" rx="8" fill="#FFFFFF" stroke="#E4E0E8"/>
+  <text x="406" y="103" font-size="12" font-weight="700" fill="#C4A882">2 · WORKFLOW INTEGRATION</text>
+  <text x="406" y="117" font-size="11.5" fill="#5F5866">embedded in how a team already works</text>
+
+  <rect x="388" y="130" width="340" height="36" rx="8" fill="#FFFFFF" stroke="#E4E0E8"/>
+  <text x="406" y="147" font-size="12" font-weight="700" fill="#C4A882">3 · OWNED DISTRIBUTION</text>
+  <text x="406" y="161" font-size="11.5" fill="#5F5866">reach the model providers do not have</text>
+
+  <rect x="388" y="174" width="340" height="36" rx="8" fill="#FFFFFF" stroke="#E4E0E8"/>
+  <text x="406" y="191" font-size="12" font-weight="700" fill="#C4A882">4 · BRAND AND TRUST</text>
+  <text x="406" y="205" font-size="11.5" fill="#5F5866">auditable compliance nobody ships overnight</text>
+
+  <rect x="388" y="218" width="340" height="32" rx="8" fill="#FFFFFF" stroke="#E4E0E8"/>
+  <text x="406" y="234" font-size="12" font-weight="700" fill="#C4A882">5 · NETWORK EFFECTS</text>
+  <text x="406" y="247" font-size="11.5" fill="#5F5866">value compounds as more join</text>
+
+  <!-- contrast strip -->
+  <line x1="32" y1="274" x2="728" y2="274" stroke="#E4E0E8"/>
+
+  <rect x="32" y="292" width="340" height="84" rx="10" fill="#C9C3D0" opacity="0.34"/>
+  <text x="52" y="316" font-size="12.5" font-weight="700" fill="#5F5866">A big valuation</text>
+  <text x="52" y="338" font-size="12" fill="#5F5866">is a bet somebody placed on you.</text>
+  <text x="52" y="358" font-size="11.5" fill="#8A8290">It has to be continuously believed in.</text>
+
+  <rect x="388" y="292" width="340" height="84" rx="10" fill="#6B3B7E"/>
+  <text x="408" y="316" font-size="12.5" font-weight="700" fill="#FFFFFF">A moat</text>
+  <text x="408" y="338" font-size="12" fill="#FFFFFF">is the reason you no longer need them to.</text>
+  <text x="408" y="358" font-size="11.5" fill="#EDE6F2">It is a structure, not a belief.</text>
+</svg>

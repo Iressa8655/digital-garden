@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 300" width="760" height="300" font-family="Inter, Segoe UI, Helvetica, Arial, sans-serif">
+  <rect x="0" y="0" width="760" height="300" rx="14" fill="#FAF9FB" stroke="#E4E0E8"/>
+
+  <text x="32" y="42" font-size="17" font-weight="700" fill="#3D3846">What actually reaches founders</text>
+  <text x="32" y="63" font-size="12.5" fill="#8A8290">Illustrative proportions. Every fund differs, but the shape does not.</text>
+
+  <!-- headline bar -->
+  <text x="32" y="102" font-size="12" font-weight="600" fill="#6B3B7E">HEADLINE FUND SIZE</text>
+  <rect x="32" y="110" width="696" height="30" rx="6" fill="#6B3B7E" opacity="0.18"/>
+  <rect x="32" y="110" width="696" height="30" rx="6" fill="none" stroke="#6B3B7E" stroke-width="1.2"/>
+  <text x="380" y="130" font-size="13" font-weight="600" fill="#3D3846" text-anchor="middle">100% of the fund</text>
+
+  <!-- arrow -->
+  <path d="M380 146 L380 166" stroke="#8A8290" stroke-width="1.4"/>
+  <path d="M375 161 L380 168 L385 161 Z" fill="#8A8290"/>
+
+  <!-- split bar -->
+  <g>
+    <rect x="32" y="176" width="132" height="44" rx="6" fill="#C9C3D0"/>
+    <text x="98" y="196" font-size="12.5" font-weight="600" fill="#3D3846" text-anchor="middle">Running costs</text>
+    <text x="98" y="212" font-size="11" fill="#5F5866" text-anchor="middle">audit, legal, staff</text>
+
+    <rect x="168" y="176" width="132" height="44" rx="6" fill="#C4A882"/>
+    <text x="234" y="196" font-size="12.5" font-weight="600" fill="#3D3846" text-anchor="middle">Reserves</text>
+    <text x="234" y="212" font-size="11" fill="#4A4350" text-anchor="middle">follow-on rounds</text>
+
+    <rect x="304" y="176" width="424" height="44" rx="6" fill="#6B3B7E"/>
+    <text x="516" y="196" font-size="13" font-weight="700" fill="#FFFFFF" text-anchor="middle">Deployable into new companies</text>
+    <text x="516" y="212" font-size="11" fill="#EDE6F2" text-anchor="middle">the only part that buys ownership</text>
+  </g>
+
+  <!-- brace -->
+  <path d="M304 232 L304 240 L728 240 L728 232" stroke="#6B3B7E" stroke-width="1.4" fill="none"/>
+  <text x="516" y="262" font-size="12.5" fill="#5F5866" text-anchor="middle">This slice has to return several times the <tspan font-weight="700" fill="#3D3846">whole</tspan> fund</text>
+  <text x="516" y="280" font-size="11.5" fill="#8A8290" text-anchor="middle">which is why each individual cheque is held to such an unreasonable standard</text>
+</svg>

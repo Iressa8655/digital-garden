@@ -14,6 +14,8 @@ Notes and reflections from a masterclass by **Seena Rejal**, Chief Commercial Of
 
 It was a commercial talk rather than a technical one, and it circled one question. Why did almost every corporate generative-AI project fail to pay for itself, and what would one that paid for itself actually look like?
 
+![[attachments/roi-argument-chain.svg]]
+
 ---
 
 ## 1. The diagnosis, value was measured before cost was
@@ -51,6 +53,8 @@ He gives five moats.
 
 Asked afterwards whether a company needs all five, his answer was no, but that a company with all five would be close to immovable. One real moat makes a business.
 
+![[attachments/roi-five-moats.svg]]
+
 The distinction he draws at the end of that section is the one I keep coming back to. **A large valuation is a bet somebody has placed on you. A moat is the reason you no longer need them to keep believing it.** He cites a company that reached a $1.5 billion valuation on generic AI copywriting and was forced into a hard pivot the moment that capability became free inside a general chatbot.
 
 ---
@@ -58,6 +62,8 @@ The distinction he draws at the end of that section is the one I keep coming bac
 ## 4. The part you can use on Monday
 
 The practical half of the talk was a five-step approach for anyone actually deciding whether to fund an AI project.
+
+![[attachments/roi-toolkit.svg]]
 
 **Measure the workflow, not the headcount.** The failure mode is trying to automate out a *job title*, which is vague and unmeasurable, instead of naming the specific bounded workflow that person performs. He says client conversations have visibly shifted from "remove five people from this team" to "here are our workflows and here are the bottlenecks", and that the second conversation is the one that produces returns.
 

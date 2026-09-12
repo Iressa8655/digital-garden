@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 300" width="760" height="300" font-family="Inter, Segoe UI, Helvetica, Arial, sans-serif">
+  <rect x="0" y="0" width="760" height="300" rx="14" fill="#FAF9FB" stroke="#E4E0E8"/>
+
+  <text x="32" y="42" font-size="17" font-weight="700" fill="#3D3846">The five steps, in order</text>
+  <text x="32" y="63" font-size="12.5" fill="#8A8290">Run before you green-light anything. Step five is the one people skip.</text>
+
+  <!-- rail -->
+  <line x1="100" y1="128" x2="660" y2="128" stroke="#C9C3D0" stroke-width="2"/>
+
+  <g>
+    <circle cx="100" cy="128" r="20" fill="#6B3B7E"/>
+    <text x="100" y="134" font-size="14" font-weight="700" fill="#FFFFFF" text-anchor="middle">1</text>
+    <text x="100" y="170" font-size="12" font-weight="700" fill="#3D3846" text-anchor="middle">Name the</text>
+    <text x="100" y="186" font-size="12" font-weight="700" fill="#3D3846" text-anchor="middle">workflow</text>
+    <text x="100" y="206" font-size="11" fill="#8A8290" text-anchor="middle">not the job title</text>
+
+    <circle cx="240" cy="128" r="20" fill="#6B3B7E" opacity="0.85"/>
+    <text x="240" y="134" font-size="14" font-weight="700" fill="#FFFFFF" text-anchor="middle">2</text>
+    <text x="240" y="170" font-size="12" font-weight="700" fill="#3D3846" text-anchor="middle">Start in the</text>
+    <text x="240" y="186" font-size="12" font-weight="700" fill="#3D3846" text-anchor="middle">back office</text>
+    <text x="240" y="206" font-size="11" fill="#8A8290" text-anchor="middle">it moves the P&amp;L</text>
+
+    <circle cx="380" cy="128" r="20" fill="#C4A882"/>
+    <text x="380" y="134" font-size="14" font-weight="700" fill="#FFFFFF" text-anchor="middle">3</text>
+    <text x="380" y="170" font-size="12" font-weight="700" fill="#3D3846" text-anchor="middle">Cap the cost,</text>
+    <text x="380" y="186" font-size="12" font-weight="700" fill="#3D3846" text-anchor="middle">fund governance</text>
+    <text x="380" y="206" font-size="11" fill="#8A8290" text-anchor="middle">both, not one</text>
+
+    <circle cx="520" cy="128" r="20" fill="#C4A882" opacity="0.85"/>
+    <text x="520" y="134" font-size="14" font-weight="700" fill="#FFFFFF" text-anchor="middle">4</text>
+    <text x="520" y="170" font-size="12" font-weight="700" fill="#3D3846" text-anchor="middle">Default to</text>
+    <text x="520" y="186" font-size="12" font-weight="700" fill="#3D3846" text-anchor="middle">open source</text>
+    <text x="520" y="206" font-size="11" fill="#8A8290" text-anchor="middle">closed needs a reason</text>
+
+    <circle cx="660" cy="128" r="24" fill="#6B3B7E"/>
+    <text x="660" y="135" font-size="15" font-weight="700" fill="#FFFFFF" text-anchor="middle">5</text>
+    <text x="660" y="174" font-size="12" font-weight="700" fill="#6B3B7E" text-anchor="middle">What moat</text>
+    <text x="660" y="190" font-size="12" font-weight="700" fill="#6B3B7E" text-anchor="middle">does this build?</text>
+    <text x="660" y="210" font-size="11" fill="#8A8290" text-anchor="middle">if none, stop</text>
+  </g>
+
+  <rect x="32" y="238" width="696" height="36" rx="8" fill="#C4A882" opacity="0.22"/>
+  <text x="380" y="261" font-size="13" fill="#3D3846" text-anchor="middle">If the honest answer to step five is <tspan font-weight="700">none</tspan>, you are funding a feature a larger lab ships free next quarter</text>
+</svg>
