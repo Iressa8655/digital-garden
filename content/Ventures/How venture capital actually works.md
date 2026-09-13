@@ -90,58 +90,73 @@ And within the funds that do succeed, the wins are not spread evenly. Top funds 
 
 ---
 
-## 7. What I actually look for
+## 7. What to show me if you are a founder
 
-Given all of the above, a scout's job is narrow, find the small number of companies with a plausible route to being that outlier. Three questions do most of the work.
+If you are building something and thinking of getting in touch, this section is written for you.
 
-![[attachments/vc-three-questions.svg]]
+All of the arithmetic above boils down to three questions. Your deck, your email and our first call should answer all three. I will then do my own homework on each answer, so show me the version that stands up when I check it.
 
-### 7.1. Is this an outlier team?
+![[attachments/vc-three-questions-v2.svg]]
 
-Outlier does not mean impressive. It means genuinely exceptional, in the specific thing this company requires.
+### 7.1. Show me why your team is the outlier
 
-The useful move is to ask what this company is actually hard at. A company whose core risk is a scientific one needs world-class researchers. One whose core risk is distribution needs people with real access to that industry. One whose core risk is infrastructure needs people who have built and run systems of that kind at scale. Being excellent on the wrong axis does not count.
+Impressive is not enough. You should show that you are genuinely exceptional **at the specific thing your company is hard at**.
 
-And the bar is genuinely high. There is a meaningful gap between good, great, and outlier, and only the last one is the thing being looked for.
+So start by naming what is hard about your company, then show why you are the people to solve it.
 
-> [!warning] A claim is not evidence
-> The easiest mistake when writing a company up is repeating what the founders say about themselves. A pitch is a sales document and it is doing its job. But if someone is described as a leading researcher, their publication record is public. If someone is described as a formidable engineer, their code usually is too. So I go and look, and then I write down what I checked and what I found. That is the part that makes a write-up worth reading.
+1. **If your core risk is scientific**, show me the research. Publications, the lab you came from, the results nobody else has reproduced.
+2. **If your core risk is distribution**, show me your access. The industry you have worked in, the buyers who already take your calls.
+3. **If your core risk is infrastructure**, show me the systems you have built and run at scale before.
 
-A related trap is the brilliant technical founder who cannot build a company. Someone has to hire, sell, raise, partner and pitch. If the technical founder is not that person, there needs to be someone beside them who is.
+Being excellent on the wrong axis does not count. A world-class researcher selling into a market that is won on distribution still has a gap, and it is better to name that gap yourself than to let me find it.
 
-### 7.2. Is there a credible path to a very large business?
+> [!warning] I will check what you tell me
+> A pitch is a sales document, and I do not hold that against you. But I will not repeat your claims to the partners without verifying them. If you say you are a leading researcher, I will read your publication record. If you say you are a formidable engineer, I will look at your code. So point me to the evidence yourself. A link to the paper or the repository does more for you than any adjective.
 
-The practical proxy is whether there is a plausible route to $100 million in annual recurring revenue, because that is roughly the scale that supports a billion-dollar-plus valuation.
+**Show me who builds the company, too.** Someone has to hire, sell, raise, partner and pitch. If the brilliant technical founder is not that person, show me the co-founder who is.
 
-That is a question about the market in three parts. **Size**, because almost no company takes more than a modest share of its market, so the market has to be very large, or credibly about to become very large. **Shape**, meaning who the players are and whether this is a winner-takes-most structure or one the incumbents quietly absorb. **State**, meaning whether the opportunity is still open or the moment has already been captured.
+### 7.2. Show me a credible path to a very large business
 
-Then do the arithmetic from the bottom up, not the top down. If they charge a certain amount, how many customers does $100 million require, and does that number of customers exist? Is that spending already in someone's budget, or does it have to be created? And because it is *recurring* revenue, is there a reason the margin does not erode the moment a competitor appears?
+The practical test is whether you have a plausible route to **$100 million in annual recurring revenue**, because that is roughly the scale that supports a billion-dollar valuation.
 
-> [!note] Focus on the upside, not the risk
-> This is the counter-intuitive bit. Early-stage companies are all fragile, and they will break in ways nobody predicted. Cataloguing the risks is easy and not very informative. The harder and more useful exercise is, **assuming they execute well, how big can this actually get?** That number is what decides whether the investment can work at all.
+You should be able to walk me through your market in three parts.
 
-#### The ambition problem, which is really a market problem
+1. **Size.** Almost no company takes more than a modest share of its market, so yours has to be very large, or credibly about to become very large.
+2. **Shape.** Who the other players are, and whether this is a market one company wins or one the incumbents quietly absorb.
+3. **State.** Why the opportunity is still open now, and why it has not already been captured.
 
-There is a specific version of this that comes up often enough to be worth naming on its own, because it is the one that founders are most surprised by.
+**Then do the maths from the bottom up.** Not "the market is $50 billion and we will take 1%". Instead tell me what you charge, how many customers $100 million requires at that price, and whether that many customers exist. Tell me whether that money already sits in someone's budget or has to be created. And because it is *recurring* revenue, tell me why your margin survives the moment a competitor appears.
 
-A team can be genuinely excellent, out of a serious research group, with real technical depth, and still fail this question entirely, because of how they have drawn the boundary around their market. The most common way I see it happen in Europe is a strong team that has quietly decided to win their own country first.
+> [!note] Sell me the upside, not the absence of risk
+> Every early-stage company is fragile and will break in ways nobody predicted, and I know that. You do not need to convince me nothing will go wrong. You need to show me **how big this gets if you execute well**. That number decides whether an investment can work at all.
 
-Switzerland is the cleanest illustration. It is a wealthy market, it pays well for quality, and it is entirely reasonable to want to start where your customers are a train ride away. It is also **small**. Winning it outright does not get you close to the scale the arithmetic in this post requires, and worse, succeeding there teaches you very little about whether you can win anywhere else, because the buying behaviour is not representative. The same argument applies to most single European countries. If the plan is Europe, then the plan has to run through the large markets, the UK, Germany, France, and eventually the US.
+#### Be more ambitious about your market than feels comfortable
 
-The reason this matters so much is that a narrow market is usually not a strategy. It is a comfort. And you can normally tell the difference by asking why. A founder who says "we are starting here because these three customers are the hardest and most demanding buyers in our category, and if we win them the rest follows" has a reason. A founder who says "we are starting here because it is where we live and we know people" has a preference, and the preference tends to persist long after it has stopped serving them.
+This is the point founders are most often surprised by, so it gets its own heading.
 
-> [!tip] What I would say to a founder
-> Be more ambitious than feels comfortable when you describe the market, and be specific about it. Not "we will expand internationally later", which everyone writes. Name the large market you are going after, say what makes you think you can take a share of it, and say what would have to be true for that to work. An investor is not testing whether your current traction is big. They are testing whether the ceiling is.
+A team can be excellent, out of a serious research group, with real technical depth, and still fail this test because of where it has drawn the boundary of its market. The most common version I see in Europe is a strong team that has quietly decided to win its home country first.
 
-This is also why "strong team" alone does not carry a company through. The team gets you taken seriously. The size of the ambition, and whether the market can actually support it, decides whether the arithmetic closes.
+Switzerland is the clearest example. It is wealthy, it pays well for quality, and starting where your customers are a train ride away is completely understandable. It is also **small**. Winning it outright does not get you near the scale this arithmetic needs. And succeeding there tells you little about whether you can win anywhere else, because its buying behaviour is not representative. The same is true of most single European countries. If your plan is Europe, it has to run through the large markets, the UK, Germany and France, and eventually the US.
 
-### 7.3. Is the moat real?
+A narrow market is usually a comfort, not a strategy, and I will ask you which one yours is. "We start here because these three customers are the most demanding buyers in our category, and if we win them the rest follows" is a reason. "We start here because it is where we live" is a preference.
 
-The defining risk in AI right now is **commoditisation**. Every time a new frontier model ships, a large number of startups whose entire product was a layer on top of the previous one quietly stop making sense.
+> [!tip] What this means for your deck
+> Do not write "we will expand internationally later". Everyone writes that. Name the large market you are going after, say what makes you believe you can take a share of it, and say what would have to be true for that to work. I am not testing whether your traction today is big. I am testing whether your ceiling is.
 
-So the question is not whether the company is useful in the next twelve months. It is whether it still has a right to exist in three to five years, after several more model generations have arrived. Usually that comes down to some combination of proprietary data that accumulates with use, and genuine domain expertise that is hard to hire, embedded somewhere a general-purpose model cannot easily reach.
+A strong team gets you taken seriously. The size of your ambition, and whether your market can actually carry it, decides whether the arithmetic closes.
 
-Thin wrappers, prompt layers and orchestration harnesses tend to get absorbed into the models themselves. A moat built out of data that gets deeper the longer the company operates tends not to.
+### 7.3. Show me a moat that survives the next model
+
+The biggest risk for an AI company right now is **commoditisation**. Every time a new frontier model ships, a wave of startups whose whole product sat on top of the previous one stops making sense.
+
+So do not only show me that you are useful for the next twelve months. Show me why you still have a right to exist in **three to five years**, after several more model generations have arrived.
+
+What convinces me is usually one or both of these.
+
+1. **Proprietary data that deepens the longer you operate**, so every customer makes the product harder to copy.
+2. **Domain expertise that is hard to hire**, built into a place a general-purpose model cannot easily reach.
+
+What does not convince me is a thin wrapper, a prompt layer or an orchestration harness on its own. Those tend to get absorbed into the models themselves. If that is what you have today, tell me how it turns into one of the two above.
 
 ---
 
@@ -153,7 +168,7 @@ Thin wrappers, prompt layers and orchestration harnesses tend to get absorbed in
 4. So a $250 million exit, wonderful for founders, can be immaterial to the fund.
 5. Therefore every investment needs a credible path to returning the fund alone.
 6. And in practice, one or two companies produce nearly all of any fund's return.
-7. Which leaves three questions, outlier team, credible path to very large, and a moat that survives the next few model generations.
+7. Which leaves three things a founder has to show, an outlier team, a credible path to very large, and a moat that survives the next few model generations.
 
 None of this makes venture a good way to finance most companies. It makes it a very specific instrument for a very specific shape of company, and most of the skill is in telling the difference quickly.
 
