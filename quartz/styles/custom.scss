@@ -14,8 +14,18 @@
     }
   }
 }
-.page > #quartz-body .sidebar {
+.page > #quartz-body .sidebar.left {
   display: none !important;
+}
+// right column = sticky outline of the article
+.page > #quartz-body .sidebar.right {
+  padding-top: 13rem;
+  padding-left: 2rem;
+  max-width: 300px;
+  .toc { position: sticky; top: 2rem; }
+}
+@media all and (max-width: 1100px) {
+  .page > #quartz-body .sidebar.right { display: none !important; }
 }
 
 // Top bar, full width, thin brand-purple rule underneath
@@ -85,12 +95,14 @@ body {
 }
 
 .page-header {
-  background: $navy;
-  box-shadow: 0 0 0 100vmax $navy;
-  clip-path: inset(0 -100vmax);
+  background: transparent;
   border-bottom: none;
   margin-bottom: 0;
   header {
+    background: $navy;
+    box-shadow: 0 0 0 100vmax $navy;
+    clip-path: inset(0 -100vmax);
+    margin: 0 0 2.5rem;
     padding: 0.9rem 0;
     gap: 1.5rem;
     .page-title a,
