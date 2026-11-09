@@ -9,6 +9,9 @@
       ". grid-header ."
       ". grid-center ."
       ". grid-footer ." !important;
+    & > .center {
+      grid-area: grid-center !important;
+    }
   }
 }
 .page > #quartz-body .sidebar {
