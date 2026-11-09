@@ -48,6 +48,10 @@ const HeroCarousel: QuartzComponent = ({ fileData }: QuartzComponentProps) => {
           />
         ))}
       </div>
+      <p class="hero-mission">
+        Doctor turned AI and health researcher at Oxford. Notes on research methods,
+        medical AI and what it takes to build things that help patients.
+      </p>
     </section>
   )
 }
@@ -87,9 +91,9 @@ HeroCarousel.css = `
 .hero-caption hr { border: none; height: 1px; background: #DAC1A5; margin: 0.9rem 0; }
 .hero-tag { font-size: 0.75rem; letter-spacing: 0.12em; text-transform: uppercase; color: #DAC1A5; }
 .hero-more { font-size: 0.95rem; }
-.hero-dots { display: flex; justify-content: center; gap: 0.6rem; margin-top: 1rem; }
-.hero-dot { width: 10px; height: 10px; border-radius: 50%; border: 1px solid var(--secondary); background: transparent; cursor: pointer; padding: 0; }
-.hero-dot.active { background: var(--secondary); }
+.hero-dots { position: absolute; left: 0; right: 0; top: 420px; z-index: 3; display: flex; justify-content: center; gap: 0.6rem; margin-top: 1rem; }
+.hero-dot { width: 10px; height: 10px; border-radius: 50%; border: 1px solid #fff; background: rgba(255,255,255,0.3); cursor: pointer; padding: 0; }
+.hero-dot.active { background: #fff; }
 @media (max-width: 600px) { .hero-track { height: 260px; } .hero-caption h2 { font-size: 1.15rem; } }
 `
 

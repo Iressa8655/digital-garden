@@ -72,3 +72,82 @@ h1.article-title {
   padding-top: 1.5rem;
   border-top: 1px solid var(--lightgray);
 }
+
+// ===== NDORMS-style skin (2026-11-09) =====
+// Full-width navy top bar, white page, full-bleed hero, mission strip.
+$navy: #0B1F3A;
+
+body {
+  background: #ffffff;
+}
+:root[saved-theme="dark"] body {
+  background: var(--light);
+}
+
+.page-header {
+  background: $navy;
+  box-shadow: 0 0 0 100vmax $navy;
+  clip-path: inset(0 -100vmax);
+  border-bottom: none;
+  margin-bottom: 0;
+  header {
+    padding: 0.9rem 0;
+    gap: 1.5rem;
+    .page-title a,
+    .page-title {
+      color: #ffffff !important;
+    }
+    a,
+    nav a {
+      color: #E8E4E6 !important;
+      text-transform: uppercase;
+      letter-spacing: 0.08em;
+      font-size: 0.82rem;
+    }
+    a:hover {
+      color: #DAC1A5 !important;
+    }
+    .search > .search-button {
+      background: rgba(255, 255, 255, 0.1);
+      border-color: rgba(255, 255, 255, 0.25);
+      color: #ffffff;
+      svg { stroke: #ffffff; }
+    }
+    .darkmode svg { fill: #ffffff; stroke: #ffffff; }
+  }
+}
+
+// hero goes edge to edge, NDORMS style
+.hero-carousel {
+  width: 100vw;
+  margin-left: calc(50% - 50vw);
+  margin-top: 0;
+  .hero-track {
+    height: 460px;
+    border-radius: 0;
+  }
+  .hero-caption {
+    background: rgba(11, 31, 58, 0.88);
+    right: 8%;
+    bottom: 18%;
+  }
+}
+
+.hero-mission {
+  position: relative;
+  z-index: 2;
+  margin: -70px auto 3rem;
+  width: min(720px, 92%);
+  background: $navy;
+  color: #ffffff;
+  text-align: center;
+  font-size: 1.2rem;
+  line-height: 1.6;
+  padding: 1.6rem 2rem;
+}
+
+// article pages get breathing room under the bar
+.center > .page-header + * ,
+.breadcrumb-container {
+  margin-top: 2.5rem;
+}
