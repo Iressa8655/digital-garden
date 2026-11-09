@@ -10,7 +10,6 @@ const CV_URL = "https://iressas-refined-folio.lovable.app/"
 const SiteNav: QuartzComponent = ({ fileData, displayClass }: QuartzComponentProps) => {
   const baseDir = pathToRoot(fileData.slug!)
   const sections = [
-    { label: "CV", href: CV_URL, external: true },
     { label: "Medicine", href: joinSegments(baseDir, "Medicine") + "/" },
     { label: "Research", href: joinSegments(baseDir, "Research") + "/" },
     { label: "AI", href: joinSegments(baseDir, "AI") + "/" },

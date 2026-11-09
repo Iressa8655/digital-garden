@@ -14,7 +14,6 @@ export const sharedPageComponents: SharedLayout = {
   afterBody: [],
   footer: Component.Footer({
     links: {
-      "CV & Accomplishments": "https://iressa8655.github.io/",
       "GitHub": "https://github.com/Iressa8655",
     },
   }),
