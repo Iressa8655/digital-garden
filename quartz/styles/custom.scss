@@ -1,3 +1,71 @@
 @use "./base.scss";
 
-// put your custom CSS here!
+// One centred reading column, no side panels (inspired by university sites
+// like NDORMS: a clean top bar, generous white space, a narrow text measure).
+@media all and (min-width: 800px) {
+  .page > #quartz-body {
+    grid-template-columns: 1fr min(760px, 92vw) 1fr !important;
+    grid-template-areas:
+      ". grid-header ."
+      ". grid-center ."
+      ". grid-footer ." !important;
+  }
+}
+.page > #quartz-body .sidebar {
+  display: none !important;
+}
+
+// Top bar, full width, thin brand-purple rule underneath
+.page-header {
+  border-bottom: 1px solid var(--lightgray);
+  margin-bottom: 2.5rem;
+  header {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    gap: 1.25rem;
+    padding: 1.25rem 0;
+    .page-title {
+      margin: 0;
+      font-size: 1.35rem;
+      letter-spacing: 0.01em;
+    }
+  }
+}
+
+// Article typography, calm and editorial
+article {
+  font-size: 1.075rem;
+  line-height: 1.75;
+  img {
+    border-radius: 10px;
+    box-shadow: 0 6px 24px rgba(61, 23, 85, 0.08);
+  }
+  h2 {
+    margin-top: 3rem;
+    padding-top: 0.5rem;
+    border-top: 2px solid var(--tertiary);
+    display: inline-block;
+  }
+  hr {
+    border: none;
+    height: 1px;
+    background: var(--lightgray);
+    margin: 3rem 0;
+  }
+  table {
+    font-size: 0.95rem;
+  }
+}
+
+h1.article-title {
+  font-size: 2.6rem;
+  line-height: 1.15;
+  margin-bottom: 0.5rem;
+}
+
+.backlinks {
+  margin-top: 3rem;
+  padding-top: 1.5rem;
+  border-top: 1px solid var(--lightgray);
+}
