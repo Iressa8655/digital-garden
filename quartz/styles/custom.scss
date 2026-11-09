@@ -6,9 +6,9 @@
   .page > #quartz-body {
     grid-template-columns: 1fr min(760px, 92vw) 1fr !important;
     grid-template-areas:
-      ". grid-header ."
-      ". grid-center ."
-      ". grid-footer ." !important;
+      "grid-sidebar-left grid-header grid-sidebar-right"
+      "grid-sidebar-left grid-center grid-sidebar-right"
+      "grid-sidebar-left grid-footer grid-sidebar-right" !important;
     & > .center {
       grid-area: grid-center !important;
     }
