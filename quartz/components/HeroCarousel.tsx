@@ -11,13 +11,13 @@ const SLIDES = [
   {
     title: "AI hype versus real ROI",
     href: "Ventures/AI-hype-versus-real-ROI",
-    image: "attachments/banner-roi-v2.svg",
+    image: "attachments/banner-roi-photo.jpg",
     tag: "Ventures",
   },
   {
     title: "How venture capital actually works",
     href: "Ventures/How-venture-capital-actually-works",
-    image: "attachments/banner-venture-v2.svg",
+    image: "attachments/banner-vc-photo.jpg",
     tag: "Ventures",
   },
 ]
