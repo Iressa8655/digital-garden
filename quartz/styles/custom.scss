@@ -151,3 +151,12 @@ body {
 .breadcrumb-container {
   margin-top: 2.5rem;
 }
+
+// remove the white strip above the navy bar
+.page > #quartz-body .center > .page-header {
+  margin-top: 0 !important;
+}
+.page > #quartz-body .center {
+  margin-top: 0 !important;
+  padding-top: 0 !important;
+}
